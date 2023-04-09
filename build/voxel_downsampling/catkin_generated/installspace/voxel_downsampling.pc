@@ -1,0 +1,8 @@
+prefix=/home/carla/my_workspace/install
+
+Name: voxel_downsampling
+Description: Description of voxel_downsampling
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

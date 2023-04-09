@@ -1,0 +1,2 @@
+voxel_downsampling
+-DCATKIN_DEVEL_PREFIX=/home/carla/my_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/carla/my_workspace/install -G Unix Makefiles
